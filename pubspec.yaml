@@ -1,0 +1,11 @@
+name: memory_image_converter
+description: A command line app that will convert an image into a Uint8List which works with Flutter's MemoryImage, Image.memory, or FadeInImage.memoryNetwork classes.
+version: 0.0.1
+homepage: https://github.com/brianegan/memory_image_converter
+author: Brian Egan <brian@brianegan.com>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+executables:
+  memory_image_converter:
